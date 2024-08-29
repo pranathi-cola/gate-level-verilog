@@ -1,2 +1,2 @@
 # gate-level-verilog
-I created a code which will add, subtract, multiply or divide matrices based on the operator chosen
+A gate level verilog code which is able to add, subtract, multiply and divide matrices based on the given op code. 
